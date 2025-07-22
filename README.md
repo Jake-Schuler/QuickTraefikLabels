@@ -1,0 +1,2 @@
+! QuickTraefikLabels
+Yes
